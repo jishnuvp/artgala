@@ -1,0 +1,6 @@
+@ArtGala.API_HostAddress = http://localhost:5028
+
+GET {{ArtGala.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
